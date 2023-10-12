@@ -5,7 +5,7 @@ const goLinks = {
   };
   
   function redirect() {
-	const path = window.location.hash.substr(1); // get the part after #
+	const path = window.location.pathname.substr(1); // get the part after the initial slash
 	const redirectURL = goLinks[path];
 	if (redirectURL) {
 	  window.location.href = redirectURL;
