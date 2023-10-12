@@ -1,6 +1,6 @@
 const goLinks = {
-	'meetingdoc': 'https://docs.google.com/hfjehdfsj',
-	'anothershortcut': 'https://anotherwebsite.com',
+	'wikirandom': 'https://en.wikipedia.org/wiki/Special:Random',
+	'photographer': 'https://photographe.michelgrolet.fr',
 	// add more shortcuts as needed
   };
   
